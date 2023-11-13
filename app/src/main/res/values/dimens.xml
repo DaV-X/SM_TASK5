@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragment_frame_margin">8dp</dimen>
+    <dimen name="task_item_padding">2dp</dimen>
+    <dimen name="task_item_height">45dp</dimen>
+    <dimen name="text_field_size">14sp</dimen>
+</resources>
